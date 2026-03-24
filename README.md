@@ -16,7 +16,7 @@
 
 ```bash
 # Клонуйте репозиторій
-git clone <repository-url>
+git clone https://github.com/Sergei-Monastyretskiy/lessonJS_40.git
 
 # Перейдіть до директорії проекту
 cd lessonJS_40
@@ -134,9 +134,6 @@ demo();
 | readFileAsync | ✅ Файл успішно прочитано | ❌ Помилка при читанні файлу | ⚠️ Файл не існує |
 | deleteFileAsync | ✅ Файл успішно видалено | ❌ Помилка при видаленні файлу | ⚠️ Файл не існує |
 
-## Ліцензія
-
-MIT
 
 ## Автор
 
